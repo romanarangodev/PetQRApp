@@ -4,11 +4,14 @@ Hybrid app for pet localization
 <ul>
   <li>Ionic</li>
   <li>Angular</li>
+  <li>JWT Authentication</li>
   <li>Laravel</li>
   <li>Eloquent</li>
   <li>QR Codes</li>
   <li>Google Maps</li>
   <li>CSS</li>
+  <li>JS</li>
+  <li>Typescript</li>
 </ul>
 
 <table>
