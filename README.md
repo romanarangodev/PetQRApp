@@ -5,6 +5,7 @@ Hybrid app for pet localization
   <li>Ionic</li>
   <li>Angular</li>
   <li>JWT Authentication</li>
+  <li>API RestFull</li>
   <li>Laravel</li>
   <li>Eloquent</li>
   <li>QR Codes</li>
