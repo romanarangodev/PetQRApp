@@ -13,6 +13,8 @@ Hybrid app for pet localization
   <li>CSS</li>
   <li>JS</li>
   <li>Typescript</li>
+  <li>Camera</li>
+  <li>GPS</li>
 </ul>
 
 <table>
